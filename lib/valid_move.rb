@@ -1,6 +1,6 @@
 def #valid_move?
 if position_taken?
-  
+  pu
 else
 end
 end
